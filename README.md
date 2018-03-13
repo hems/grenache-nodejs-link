@@ -69,7 +69,7 @@ Puts a value into the DHT.
 
   - `data`
     - `v`: &lt;String&gt; value to store
-    - `s`: &lt;Number&gt; sequence number
+    - `seq`: &lt;Number&gt; sequence number
   - `opts`
     - `keys`: &lt;Object&gt; contains `ed25519-supercop` private and public key
       - `publicKey`: &lt;Buffer&gt; public key
