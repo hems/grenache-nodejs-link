@@ -78,9 +78,9 @@ Puts a value into the DHT.
 
 Provides sugar for storing mutable, signed data in the DHT.
 
-[Example raw put](https://github.com/bitfinexcom/grenache-nodejs-ws/tree/master/examples/put_get_mutable_raw.js)
+[Example raw put](https://github.com/bitfinexcom/grenache-nodejs-link/blob/master/examples/put_get_mutable_raw.js)
 <br/>
-[Example with putMutable](https://github.com/bitfinexcom/grenache-nodejs-ws/tree/master/examples/put_get_mutable.js)
+[Example with putMutable](https://github.com/bitfinexcom/grenache-nodejs-link/blob/master/examples/put_get_mutable.js)
 
 #### link.get(hash, callback)
 
